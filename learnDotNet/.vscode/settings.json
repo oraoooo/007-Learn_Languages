@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "consoleApp.sln",
+    "git.ignoreLimitWarning": true
+}
